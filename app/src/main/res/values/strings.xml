@@ -1,0 +1,39 @@
+<resources>
+    //アプリ名
+    <string name="app_name">冷蔵庫の番人</string>
+    //初期画面
+    <string name="name">冷蔵庫の番人</string>
+    //各画面下側ボタン
+    <string name="home">ホーム</string>
+    <string name="register">登録</string>
+    <string name="delete">削除</string>
+    <string name="nutrient">栄養素</string>
+    <string name="configuration">設定</string>
+    //ホーム(表示)画面
+    <string name="home_func">登録食材一覧</string>
+    <string name="deadline">期限</string>
+    //登録画面
+    <string name="register_func">食材登録</string>
+    <string name="item_name">食材名</string>
+    <string name="number">量</string>
+    <string name="category">品目</string>
+    <string name="price">値段</string>
+    <string name="popup">値が入力されていないか入力値が不正です</string>
+    //削除画面
+    <string name="delete_func">食材削除</string>
+    <string name="del_number">削除個数</string>
+    //栄養素表示画面
+    <string name="nutrient_func">栄養素摂取量</string>
+    //設定画面
+    <string name="configuration_func">設定</string>
+    //その他
+    <string name="yen">円</string>
+    <string name="next">次へ</string>
+    <string name="finish">完了</string>
+    <string name="back">戻る</string>
+
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="commit">決定</string>
+    <string name="zero">0</string>
+</resources>
